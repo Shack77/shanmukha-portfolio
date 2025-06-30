@@ -10,7 +10,7 @@ const Contact = () => {
       className="container"
     >
       <h2>Contact</h2>
-      <p>Email: shanmukha7.g@gmail.com</p>
+      <p>Email: shanmukhag0407@gmail.com</p>
     </motion.section>
   )
 }
