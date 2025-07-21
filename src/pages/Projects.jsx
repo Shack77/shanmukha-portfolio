@@ -38,10 +38,10 @@ const Projects = () => {
       
 
         <div className="project-card">
-          <h3>CV-Based Attendance System Using Face Recognition</h3>
-          <p>Built a real-time attendance system that automatically logs student presence using face recognition. Collected and preprocessed diverse student images. Leveraged OpenCV and dlib for accurate detection and recognition, logging attendance data with timestamps in SQLite. Enabled multi-face detection to track multiple students in live streams.</p>
-          <p><strong>Technologies:</strong> OpenCV, dlib, Python, SQLite, Machine Learning</p>
-          <a href="https://github.com/Shack77/face-attendance-system" target="_blank" rel="noreferrer">GitHub</a>
+          <h3>Emotion Recognition from Speech using LSTM and MFCC Features</h3>
+          <p>Developed an LSTM-based deep learning model for speech emotion recognition using MFCC features from raw audio data.Applied data preprocessing, normalization, sequence padding, and extracted temporal features for robust model input.Enhanced the model with multi-layer BiLSTM, attention mechanism, dropout regularization, and learning rate scheduling for improved training dynamics.</p>
+          <p><strong>Technologies:</strong>Python, PyTorch, Librosa, NumPy, Scikit-learn, BiLSTM, Attention Mechanism, Torch Dataloader & Scheduler APIs.</p>
+          <a href="https://github.com/Shack77/emotion-detection" target="_blank" rel="noreferrer">GitHub</a>
         </div>
 
            
